@@ -1,1 +1,1 @@
-# swifty-authentication
+# SwiftyAuthentication
